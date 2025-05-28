@@ -134,20 +134,6 @@ indiecrm/
 
 ---
 
-## 9. Planning estimatif
-
-```bash
-| Semaine | Objectif                                 |
-| :------ | :--------------------------------------- |
-| 1       | Authentification + Setup Front/Back      |
-| 2       | CRUD Client + Dashboard initial          |
-| 3       | Gestion Tâches + Historique Interactions |
-| 4       | Emailing SMTP + Export CSV               |
-| 5       | Finitions + Déploiement                  |
-| 6       | Tests + Documentation                    |
-```
----
-
 ## 👨‍💻 Auteur
 
 Développé avec ❤️ par **Brahim et Gabriel**
