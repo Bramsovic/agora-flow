@@ -1,8 +1,8 @@
-# 📄 Cahier des Charges — IndieCRM
+# 📄 Cahier des Charges — Agrora Flow
 
 ## 1. Présentation du projet
 
-**IndieCRM** est une application web minimaliste de gestion de relation client (CRM) destinée aux **indépendants**, **freelances**, **artisans** et **TPE**.
+**Agora Flow** est une application web minimaliste de gestion de relation client (CRM) destinée aux **indépendants**, **freelances**, **artisans** et **TPE**.
 L'objectif est de proposer une solution simple, rapide et efficace pour gérer les clients, suivre les interactions, organiser les relances et centraliser les communications.
 
 ---
